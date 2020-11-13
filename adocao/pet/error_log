@@ -1,0 +1,6 @@
+[18-Sep-2020 12:30:54 America/Sao_Paulo] PHP Notice:  Undefined variable: senha in /home/afixoco/public_html/encontrapet/adocao/pet/process.php on line 33
+[18-Sep-2020 12:30:54 America/Sao_Paulo] PHP Notice:  Use of undefined constant id_pets - assumed 'id_pets' in /home/afixoco/public_html/encontrapet/adocao/pet/process.php on line 35
+[18-Sep-2020 12:30:54 America/Sao_Paulo] PHP Notice:  Use of undefined constant id_pessoas - assumed 'id_pessoas' in /home/afixoco/public_html/encontrapet/adocao/pet/process.php on line 35
+[18-Sep-2020 12:30:54 America/Sao_Paulo] PHP Notice:  Use of undefined constant data_hora - assumed 'data_hora' in /home/afixoco/public_html/encontrapet/adocao/pet/process.php on line 35
+[18-Sep-2020 20:34:08 America/Sao_Paulo] PHP Notice:  Undefined index: ENCONTRAPET_codigo in /home/afixoco/public_html/encontrapet/adocao/pet/index.php on line 13
+[18-Sep-2020 20:34:08 America/Sao_Paulo] PHP Notice:  Undefined index: ENCONTRAPET_codigo in /home/afixoco/public_html/encontrapet/adocao/pet/index.php on line 193

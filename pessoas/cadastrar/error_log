@@ -1,0 +1,9 @@
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Undefined variable: id in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Use of undefined constant nome - assumed 'nome' in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Use of undefined constant face_id - assumed 'face_id' in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Undefined variable: face_id in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Use of undefined constant telefone - assumed 'telefone' in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Use of undefined constant especies_interesses - assumed 'especies_interesses' in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
+[16-Sep-2020 05:33:41 America/Sao_Paulo] PHP Notice:  Use of undefined constant senha - assumed 'senha' in /home/afixoco/public_html/encontrapet/pessoas/cadastrar/process.php on line 35
