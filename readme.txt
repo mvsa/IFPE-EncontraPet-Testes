@@ -1,3 +1,5 @@
+Grupo: Flávio, Gustavo, Alisson e Marcos
+
 É Necessário para o funcionamento instalar as bases de dados na seguinte ordem: 
 
 encontrapet.sql
